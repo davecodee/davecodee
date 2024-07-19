@@ -7,7 +7,7 @@
 
 Currently building powerful AI models with XGboost, Nueral Networks, and Large Language Models (LLMs) to provide value in business and sports .
 
-Click [here](example.com) to explore my professional work. <!-- Replace with your actual portfolio link -->
+--- Click [here](example.com) to explore my professional work. <!-- Replace with your actual portfolio link -->
 
 ## Projects
 
