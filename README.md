@@ -3,7 +3,8 @@
 
 # <p align="center">Hi, I'm Dhairya 👋. I am a Data Analyst.</p>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](example.com) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([example.com](https://www.linkedin.com/in/dhairyadave1238/)) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@dhairyadave1238)
+<!--[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](example.com) --> 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([example.com](https://www.linkedin.com/in/dhairyadave1238/)) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@dhairyadave1238)
 
 Currently building powerful AI models with XGboost, Nueral Networks, and Large Language Models (LLMs) to provide value in business and sports .
 
