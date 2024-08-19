@@ -31,7 +31,9 @@ Here's a selection of recent open-source projects I've contributed to:
 <!-- Add more tools and technologies as needed -->
 
 <!-- Optional: Add any additional stats or information you'd like to highlight -->
-
+<!--Current STAT under construction <div align = right>
+ <img width=390 src="https://github-readme-stats.vercel.app/api?username=davecodee&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+ </div>-->
 ---
 
 *Data Analyst*
